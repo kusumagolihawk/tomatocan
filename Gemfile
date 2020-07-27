@@ -1,6 +1,10 @@
  source 'https://rubygems.org'
 
+<<<<<<< HEAD
 ruby "2.6.3"
+=======
+ruby "2.7.1"
+>>>>>>> 193a1129bdc44ea563a3fed8c33bc69903f2dca7
 
 gem "rails", "~> 6.0"
 gem "listen", "~> 3.2"
